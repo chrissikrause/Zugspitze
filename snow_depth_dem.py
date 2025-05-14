@@ -1,5 +1,5 @@
 #
-# This script is an analysis of LIDAR UAV drone data to map snow depth at Zugspitze, Germany
+# This script is an analysis of LIDAR UAV data to map snow depth at Zugspitze, Germany
 #
 
 # Import necessary libraries
