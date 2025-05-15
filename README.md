@@ -9,3 +9,5 @@ This Repository contains code to process UAV and in-situ data acquired during fi
 **slope_aspect_transects.py**: Slope and aspect analysis along in-situ transects.
 
 **sd_dem_vs_gcp_transects.py**: Comparison of in-situ Snow Depth measured at transects and GCPs with Snow Depth derived from DEM substraction.
+
+**snow_accumulation.py**: Calculation of Snow Extent and Snow Cover from DEM derived Snow Depth Data.
